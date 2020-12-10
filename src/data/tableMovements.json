@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1985",
+        "provider": "Bodega Centro",
+        "destination": "Centro Comercial Cacique",
+        "manager": "John Gracía",
+        "quantity": 9,
+        "type": "Abastecimiento",
+        "date": "Lun. 26 Oct. 2020",
+        "price": "225.000"
+    },
+    {
+        "id": "19879665211",
+        "provider": "Productos del NORTE",
+        "destination": "La florida CC",
+        "manager": "Diana Guarín",
+        "quantity": 20,
+        "date": "Mie. 7 Oct. 2020",
+        "price": "1.980.000"
+    },
+    {
+        "id": "19879665211",
+        "provider": "Productos del NORTE",
+        "destination": "La florida CC",
+        "manager": "Diana Guarín",
+        "quantity": 20,
+        "date": "Mie. 7 Oct. 2020",
+        "price": "1.980.000"
+    },
+    {
+        "id": "19879665211",
+        "provider": "Productos del NORTE",
+        "destination": "La florida CC",
+        "manager": "Diana Guarín",
+        "quantity": 20,
+        "date": "Mie. 7 Oct. 2020",
+        "price": "1.980.000"
+    },
+    {
+        "id": "19879665211",
+        "provider": "Productos del NORTE",
+        "destination": "La florida CC",
+        "manager": "Diana Guarín",
+        "quantity": 20,
+        "date": "Mie. 7 Oct. 2020",
+        "price": "1.980.000"
+    }
+]
